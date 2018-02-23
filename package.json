@@ -15,7 +15,7 @@
     "gulp-util": "^2.2.14",
     "minimatch": "^3.0.2",
     "through2": "^0.4.0",
-    "uglify-es": "^3.0.3"
+    "uglify-es": "^3.3.9"
   },
   "license": "ISC",
   "bugs": {
